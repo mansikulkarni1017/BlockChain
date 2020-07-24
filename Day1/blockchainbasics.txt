@@ -1,0 +1,32 @@
+				Assignment 1 Day 1
+
+Q1.What is your understanding of Blockchain?
+Ans.Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and 
+distributed across the entire network of computer systems on the blockchain.
+
+Q2.What is the core problem Blockchain trying to solve?
+Ans. 1.Currency and Transaction Support
+     2.Supply Chains and Item Histories
+     3.Government Operations
+     4.Real Estate
+
+Q3.What are the few features which Blockchain will give you?
+Ans. 1. Cannot be Corrupted.
+     2. Decentralized Technology
+     3. Enhanced Security
+     4. Distributed Ledgers
+     5. Faster Settlement
+
+Q4.What all things does a Block contain?
+Ans. Each block contains, among other things, the current time, 
+a record of some or all recent transactions, 
+and a reference to the block that came immediately before it. 
+It also contains an answer to a difficult-to-solve mathematical puzzle - 
+the answer to which is unique to each block.
+
+Q4.How is the verifiability of Blockchain has been attained?
+Ans.Validated transactions are stored into a block and 
+are sealt with a lock (hash). This block becomes part of 
+the blockchain when other computers in the network validate 
+if the lock on the block is correct. Now the transaction 
+is part of the blockchain and can not be altered in any way.
